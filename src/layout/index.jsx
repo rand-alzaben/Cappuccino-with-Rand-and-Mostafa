@@ -14,7 +14,7 @@ const MainLayout = ({ children, hasFooter = true }) => (
   <div>
     <Helmet htmlAttributes={{ lang: siteConfig.siteLang }}>
       <meta name="description" content={siteConfig.siteDescription} />
-      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+      <link rel="shortcut icon" type="image/x-icon" href="/logos/logo.png" />
       <link rel="canonical" href={useSlash(siteConfig.siteUrl)} />
     </Helmet>
     <Navigation
