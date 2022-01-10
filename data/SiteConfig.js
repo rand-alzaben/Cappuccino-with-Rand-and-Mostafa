@@ -114,7 +114,7 @@ const config = {
     },
   ],
   // Use for navigation
-  navTitle: "GB Template",
+  navTitle: "Rand and Mostafa",
   navLinks: [
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
