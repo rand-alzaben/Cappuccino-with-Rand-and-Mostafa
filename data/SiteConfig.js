@@ -6,7 +6,7 @@ const config = {
   siteLogo: "/logos/logo.png", // Logo used for SEO and manifest.
   siteUrl: "https://randandmostafa.gatsbyjs.io", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Cappuccino with Rand and Mostafa", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
   siteFBAppID: "399626517562189", // FB Application ID for using app insights
